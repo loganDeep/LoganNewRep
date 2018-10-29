@@ -1,1 +1,1 @@
-TypeScript file for angular 2 and above
+TypeScript file for angular 4 and above
